@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "guildId": "",
+    "clientId": "",
+    "developersId": [""],
+    "db": {
+       "url": "",
+       "database": ""
+    }
+ }
